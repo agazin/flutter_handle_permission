@@ -1,6 +1,6 @@
 # handle_permissions
 
-A new Flutter project.
+POC handle permissions with Getx
 
 ## Getting Started
 
